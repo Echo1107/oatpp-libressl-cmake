@@ -1,3 +1,0 @@
-repository='http://git.sy/medical_ai/nlp/map_concept/map_concept.common.git'
-module=''
-tag='origin'

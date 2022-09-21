@@ -1,3 +1,0 @@
-/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-subbuild/CMakeFiles/oatpp_websocket-populate.dir
-/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-subbuild/CMakeFiles/edit_cache.dir
-/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-subbuild/CMakeFiles/rebuild_cache.dir

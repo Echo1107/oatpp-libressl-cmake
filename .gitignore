@@ -39,6 +39,6 @@ utility/install-deps/tmp/
 cmake-build-debug/
 
 # custom build
-build/
+build*/
 
 .vscode/

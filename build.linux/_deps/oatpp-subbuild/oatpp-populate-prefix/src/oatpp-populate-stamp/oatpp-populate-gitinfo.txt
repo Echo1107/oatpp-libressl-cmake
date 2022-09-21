@@ -1,3 +1,0 @@
-repository='https://github.com/oatpp/oatpp.git'
-module=''
-tag='origin'
