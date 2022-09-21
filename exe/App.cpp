@@ -16,15 +16,17 @@ int main(int argc, const char *argv[])
 
   oatpp::libressl::Callbacks::setDefaultCallbacks();
 
-  auto client = MyApiClient::createShared({"synyi-portal-frontend-566-v3-master.synyi.sy", 443});
-  auto res1 = client->doPostTest()->readBodyToString();
+  // auto client = MyApiClient::createShared({"172.16.127.100", 20130},true);
+  // auto code = client->doGetTest1()->getStatusCode();
 
-  std::cout << "res1: " << res1->c_str() << std::endl;
+  auto client = MyApiClient::createShared({"httpbin.org", 443}, true);
+  auto connection = client->getConnection();
+  OATPP_ASSERT(connection);
 
-  auto client2 = MyApiClient::createShared({"map-concept-bootstrap-714-develop.sy/", 80});
-  auto res2 = client2->doGetVersion()->readBodyToString();
+  auto response = client->doGetTest2(connection);
+  auto code = response->getStatusCode();
 
-  std::cout << "res2: " << res2->c_str() << std::endl;
+  std::cout << "response code: " << code << std::endl;
 
   /* Print how much objects were created during app running, and what have left-probably leaked */
   /* Disable object counting for release builds using '-D OATPP_DISABLE_ENV_OBJECT_COUNTERS' flag for better performance */
