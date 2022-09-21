@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/map_concept.common-build/exe",
+		"source" : "build.linux/_deps/map_concept.common-src/exe"
+	}
+}

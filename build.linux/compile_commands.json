@@ -1,0 +1,757 @@
+[
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/algorithm/CRC.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/algorithm/CRC.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/algorithm/CRC.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/Coroutine.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/Coroutine.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/Coroutine.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/CoroutineWaitList.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/CoroutineWaitList.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/CoroutineWaitList.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/Error.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/Error.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/Error.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/Executor.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/Executor.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/Executor.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/Lock.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/Lock.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/Lock.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/Processor.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/Processor.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/Processor.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/worker/Worker.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/Worker.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/Worker.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/worker/IOEventWorker_common.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/IOEventWorker_common.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/IOEventWorker_common.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/worker/IOEventWorker_kqueue.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/IOEventWorker_kqueue.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/IOEventWorker_kqueue.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/worker/IOEventWorker_epoll.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/IOEventWorker_epoll.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/IOEventWorker_epoll.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/worker/IOEventWorker_stub.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/IOEventWorker_stub.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/IOEventWorker_stub.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/worker/IOWorker.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/IOWorker.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/IOWorker.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/async/worker/TimerWorker.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/TimerWorker.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/async/worker/TimerWorker.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/base/CommandLineArguments.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/base/CommandLineArguments.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/base/CommandLineArguments.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/base/Countable.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/base/Countable.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/base/Countable.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/base/Environment.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/base/Environment.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/base/Environment.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/concurrency/SpinLock.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/concurrency/SpinLock.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/concurrency/SpinLock.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/concurrency/Thread.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/concurrency/Thread.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/concurrency/Thread.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/IODefinitions.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/IODefinitions.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/IODefinitions.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/buffer/FIFOBuffer.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/buffer/FIFOBuffer.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/buffer/FIFOBuffer.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/buffer/IOBuffer.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/buffer/IOBuffer.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/buffer/IOBuffer.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/buffer/Processor.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/buffer/Processor.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/buffer/Processor.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/mapping/ObjectMapper.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/ObjectMapper.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/ObjectMapper.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/mapping/TypeResolver.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/TypeResolver.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/TypeResolver.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/mapping/type/Any.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/Any.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/Any.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/mapping/type/Enum.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/Enum.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/Enum.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/mapping/type/List.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/List.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/List.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/mapping/type/PairList.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/PairList.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/PairList.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/mapping/type/Object.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/Object.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/Object.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/mapping/type/Primitive.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/Primitive.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/Primitive.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/mapping/type/Type.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/Type.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/Type.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/mapping/type/UnorderedMap.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/UnorderedMap.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/UnorderedMap.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/mapping/type/UnorderedSet.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/UnorderedSet.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/UnorderedSet.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/mapping/type/Vector.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/Vector.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/mapping/type/Vector.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/resource/File.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/resource/File.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/resource/File.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/resource/InMemoryData.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/resource/InMemoryData.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/resource/InMemoryData.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/resource/TemporaryFile.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/resource/TemporaryFile.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/resource/TemporaryFile.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/share/MemoryLabel.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/share/MemoryLabel.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/share/MemoryLabel.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/share/StringTemplate.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/share/StringTemplate.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/share/StringTemplate.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/stream/BufferStream.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/stream/BufferStream.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/stream/BufferStream.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/stream/FIFOStream.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/stream/FIFOStream.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/stream/FIFOStream.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/stream/FileStream.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/stream/FileStream.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/stream/FileStream.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/stream/Stream.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/stream/Stream.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/stream/Stream.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/stream/StreamBufferedProxy.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/stream/StreamBufferedProxy.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/stream/StreamBufferedProxy.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/data/Bundle.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/Bundle.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/data/Bundle.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/parser/Caret.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/parser/Caret.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/parser/Caret.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/parser/ParsingError.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/parser/ParsingError.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/parser/ParsingError.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/utils/Binary.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/utils/Binary.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/utils/Binary.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/utils/ConversionUtils.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/utils/ConversionUtils.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/utils/ConversionUtils.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/utils/Random.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/utils/Random.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/utils/Random.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/core/utils/String.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/utils/String.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/core/utils/String.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/encoding/Base64.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/encoding/Base64.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/encoding/Base64.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/encoding/Hex.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/encoding/Hex.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/encoding/Hex.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/encoding/Unicode.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/encoding/Unicode.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/encoding/Unicode.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/monitor/ConnectionInactivityChecker.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/monitor/ConnectionInactivityChecker.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/monitor/ConnectionInactivityChecker.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/monitor/ConnectionMaxAgeChecker.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/monitor/ConnectionMaxAgeChecker.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/monitor/ConnectionMaxAgeChecker.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/monitor/ConnectionMonitor.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/monitor/ConnectionMonitor.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/monitor/ConnectionMonitor.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/tcp/client/ConnectionProvider.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/tcp/client/ConnectionProvider.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/tcp/client/ConnectionProvider.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/tcp/server/ConnectionProvider.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/tcp/server/ConnectionProvider.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/tcp/server/ConnectionProvider.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/tcp/Connection.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/tcp/Connection.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/tcp/Connection.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/virtual_/Interface.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/virtual_/Interface.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/virtual_/Interface.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/virtual_/Pipe.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/virtual_/Pipe.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/virtual_/Pipe.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/virtual_/Socket.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/virtual_/Socket.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/virtual_/Socket.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/virtual_/client/ConnectionProvider.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/virtual_/client/ConnectionProvider.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/virtual_/client/ConnectionProvider.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/virtual_/server/ConnectionProvider.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/virtual_/server/ConnectionProvider.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/virtual_/server/ConnectionProvider.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/Address.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/Address.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/Address.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/ConnectionPool.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/ConnectionPool.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/ConnectionPool.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/ConnectionProvider.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/ConnectionProvider.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/ConnectionProvider.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/ConnectionProviderSwitch.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/ConnectionProviderSwitch.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/ConnectionProviderSwitch.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/Server.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/Server.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/Server.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/network/Url.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/Url.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/network/Url.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/orm/DbClient.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/orm/DbClient.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/orm/DbClient.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/orm/Executor.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/orm/Executor.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/orm/Executor.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/orm/QueryResult.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/orm/QueryResult.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/orm/QueryResult.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/orm/SchemaMigration.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/orm/SchemaMigration.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/orm/SchemaMigration.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/orm/Transaction.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/orm/Transaction.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/orm/Transaction.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/parser/json/Beautifier.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/parser/json/Beautifier.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/parser/json/Beautifier.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/parser/json/Utils.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/parser/json/Utils.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/parser/json/Utils.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/parser/json/mapping/Deserializer.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/parser/json/mapping/Deserializer.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/parser/json/mapping/Deserializer.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/parser/json/mapping/ObjectMapper.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/parser/json/mapping/ObjectMapper.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/parser/json/mapping/ObjectMapper.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/parser/json/mapping/Serializer.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/parser/json/mapping/Serializer.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/parser/json/mapping/Serializer.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/client/ApiClient.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/client/ApiClient.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/client/ApiClient.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/client/HttpRequestExecutor.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/client/HttpRequestExecutor.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/client/HttpRequestExecutor.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/client/RequestExecutor.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/client/RequestExecutor.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/client/RequestExecutor.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/client/RetryPolicy.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/client/RetryPolicy.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/client/RetryPolicy.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/mime/multipart/FileProvider.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/FileProvider.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/FileProvider.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/mime/multipart/InMemoryDataProvider.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/InMemoryDataProvider.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/InMemoryDataProvider.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/mime/multipart/Multipart.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/Multipart.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/Multipart.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/mime/multipart/Part.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/Part.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/Part.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/mime/multipart/PartList.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/PartList.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/PartList.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/mime/multipart/PartReader.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/PartReader.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/PartReader.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/mime/multipart/Reader.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/Reader.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/Reader.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/mime/multipart/StatefulParser.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/StatefulParser.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/StatefulParser.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/mime/multipart/TemporaryFileProvider.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/TemporaryFileProvider.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/mime/multipart/TemporaryFileProvider.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/CommunicationError.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/CommunicationError.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/CommunicationError.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/Http.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/Http.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/Http.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/incoming/BodyDecoder.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/incoming/BodyDecoder.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/incoming/BodyDecoder.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/incoming/Request.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/incoming/Request.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/incoming/Request.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/incoming/RequestHeadersReader.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/incoming/RequestHeadersReader.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/incoming/RequestHeadersReader.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/incoming/Response.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/incoming/Response.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/incoming/Response.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/incoming/ResponseHeadersReader.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/incoming/ResponseHeadersReader.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/incoming/ResponseHeadersReader.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/incoming/SimpleBodyDecoder.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/incoming/SimpleBodyDecoder.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/incoming/SimpleBodyDecoder.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/outgoing/Body.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/Body.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/Body.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/outgoing/BufferBody.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/BufferBody.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/BufferBody.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/outgoing/MultipartBody.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/MultipartBody.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/MultipartBody.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/outgoing/StreamingBody.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/StreamingBody.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/StreamingBody.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/outgoing/Request.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/Request.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/Request.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/outgoing/Response.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/Response.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/Response.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/outgoing/ResponseFactory.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/ResponseFactory.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/outgoing/ResponseFactory.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/encoding/Chunked.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/encoding/Chunked.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/encoding/Chunked.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/encoding/ProviderCollection.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/encoding/ProviderCollection.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/encoding/ProviderCollection.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/protocol/http/utils/CommunicationUtils.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/utils/CommunicationUtils.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/protocol/http/utils/CommunicationUtils.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/server/AsyncHttpConnectionHandler.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/AsyncHttpConnectionHandler.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/AsyncHttpConnectionHandler.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/server/HttpConnectionHandler.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/HttpConnectionHandler.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/HttpConnectionHandler.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/server/HttpProcessor.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/HttpProcessor.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/HttpProcessor.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/server/HttpRouter.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/HttpRouter.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/HttpRouter.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/server/api/ApiController.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/api/ApiController.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/api/ApiController.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/server/api/Endpoint.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/api/Endpoint.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/api/Endpoint.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/server/handler/AuthorizationHandler.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/handler/AuthorizationHandler.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/handler/AuthorizationHandler.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/server/handler/ErrorHandler.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/handler/ErrorHandler.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/handler/ErrorHandler.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/server/interceptor/AllowCorsGlobal.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/interceptor/AllowCorsGlobal.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/server/interceptor/AllowCorsGlobal.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp.dir/oatpp/web/url/mapping/Pattern.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/url/mapping/Pattern.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp/web/url/mapping/Pattern.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp-test.dir/oatpp-test/Checker.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp-test/Checker.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp-test/Checker.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -DOATPP_DISABLE_ENV_OBJECT_COUNTERS -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp-build/src/CMakeFiles/oatpp-test.dir/oatpp-test/UnitTest.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp-test/UnitTest.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src/oatpp-test/UnitTest.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp_websocket-build/src/CMakeFiles/oatpp-websocket.dir/oatpp-websocket/AsyncConnectionHandler.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/AsyncConnectionHandler.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/AsyncConnectionHandler.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp_websocket-build/src/CMakeFiles/oatpp-websocket.dir/oatpp-websocket/AsyncWebSocket.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/AsyncWebSocket.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/AsyncWebSocket.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp_websocket-build/src/CMakeFiles/oatpp-websocket.dir/oatpp-websocket/ConnectionHandler.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/ConnectionHandler.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/ConnectionHandler.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp_websocket-build/src/CMakeFiles/oatpp-websocket.dir/oatpp-websocket/Connector.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/Connector.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/Connector.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp_websocket-build/src/CMakeFiles/oatpp-websocket.dir/oatpp-websocket/Frame.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/Frame.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/Frame.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp_websocket-build/src/CMakeFiles/oatpp-websocket.dir/oatpp-websocket/Handshaker.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/Handshaker.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/Handshaker.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp_websocket-build/src/CMakeFiles/oatpp-websocket.dir/oatpp-websocket/SHA1.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/SHA1.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/SHA1.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp_websocket-build/src/CMakeFiles/oatpp-websocket.dir/oatpp-websocket/Utils.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/Utils.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/Utils.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o _deps/oatpp_websocket-build/src/CMakeFiles/oatpp-websocket.dir/oatpp-websocket/WebSocket.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/WebSocket.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src/oatpp-websocket/WebSocket.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/include -g -fPIC -m64 -march=westmere -std=gnu++17 -o _deps/map_concept.common-build/src/CMakeFiles/map-concept-common-base.dir/impl/base/base64_utils.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/base/base64_utils.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/base/base64_utils.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/include -g -fPIC -m64 -march=westmere -std=gnu++17 -o _deps/map_concept.common-build/src/CMakeFiles/map-concept-common-base.dir/impl/base/envrionment.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/base/envrionment.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/base/envrionment.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/include -g -fPIC -m64 -march=westmere -std=gnu++17 -o _deps/map_concept.common-build/src/CMakeFiles/map-concept-common-base.dir/impl/base/wrapped_buffer.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/base/wrapped_buffer.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/base/wrapped_buffer.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -g -fPIC -m64 -march=westmere -std=gnu++17 -o _deps/map_concept.common-build/src/CMakeFiles/map-concept-common-network-oatpp.dir/impl/network/oatpp/AsyncWSInstanceListener.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/network/oatpp/AsyncWSInstanceListener.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/network/oatpp/AsyncWSInstanceListener.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -g -fPIC -m64 -march=westmere -std=gnu++17 -o _deps/map_concept.common-build/src/CMakeFiles/map-concept-common-network-oatpp.dir/impl/network/oatpp/AsyncWSListener.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/network/oatpp/AsyncWSListener.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/network/oatpp/AsyncWSListener.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -g -fPIC -m64 -march=westmere -std=gnu++17 -o _deps/map_concept.common-build/src/CMakeFiles/map-concept-common-network-oatpp.dir/impl/network/oatpp/WSClient.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/network/oatpp/WSClient.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/network/oatpp/WSClient.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -g -fPIC -m64 -march=westmere -std=gnu++17 -o _deps/map_concept.common-build/src/CMakeFiles/map-concept-common-network-oatpp.dir/impl/network/oatpp/WSClientService.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/network/oatpp/WSClientService.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/network/oatpp/WSClientService.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -g -fPIC -m64 -march=westmere -std=gnu++17 -o _deps/map_concept.common-build/src/CMakeFiles/map-concept-common-network-oatpp.dir/impl/network/oatpp/WSListener.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/network/oatpp/WSListener.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/network/oatpp/WSListener.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -g -fPIC -m64 -march=westmere -std=gnu++17 -o _deps/map_concept.common-build/src/CMakeFiles/map-concept-common-network-oatpp.dir/impl/network/oatpp/server_runner.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/network/oatpp/server_runner.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/impl/network/oatpp/server_runner.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/build.linux -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/exe/include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/src/include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp_websocket-src/src -g -fPIC -m64 -march=westmere -std=gnu++17 -o _deps/map_concept.common-build/exe/CMakeFiles/map-concept-common-exe.dir/main.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/exe/main.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/map_concept.common-src/exe/main.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/src -I/mnt/d/测试/oatpp-libressl-cmake/src/../include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o src/CMakeFiles/oatpp-libressl.dir/oatpp-libressl/Callbacks.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/src/oatpp-libressl/Callbacks.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/src/oatpp-libressl/Callbacks.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/src -I/mnt/d/测试/oatpp-libressl-cmake/src/../include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o src/CMakeFiles/oatpp-libressl.dir/oatpp-libressl/Config.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/src/oatpp-libressl/Config.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/src/oatpp-libressl/Config.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/src -I/mnt/d/测试/oatpp-libressl-cmake/src/../include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o src/CMakeFiles/oatpp-libressl.dir/oatpp-libressl/Connection.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/src/oatpp-libressl/Connection.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/src/oatpp-libressl/Connection.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/src -I/mnt/d/测试/oatpp-libressl-cmake/src/../include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o src/CMakeFiles/oatpp-libressl.dir/oatpp-libressl/client/ConnectionProvider.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/src/oatpp-libressl/client/ConnectionProvider.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/src/oatpp-libressl/client/ConnectionProvider.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/src -I/mnt/d/测试/oatpp-libressl-cmake/src/../include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o src/CMakeFiles/oatpp-libressl.dir/oatpp-libressl/server/ConnectionProvider.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/src/oatpp-libressl/server/ConnectionProvider.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/src/oatpp-libressl/server/ConnectionProvider.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/src -I/mnt/d/测试/oatpp-libressl-cmake/src/../include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=c++11 -o src/CMakeFiles/oatpp-libressl.dir/oatpp-libressl/TLSObject.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/src/oatpp-libressl/TLSObject.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/src/oatpp-libressl/TLSObject.cpp"
+},
+{
+  "directory": "/mnt/d/测试/oatpp-libressl-cmake/build.linux",
+  "command": "/usr/bin/g++ -I/mnt/d/测试/oatpp-libressl-cmake/src -I/mnt/d/测试/oatpp-libressl-cmake/src/../include -I/mnt/d/测试/oatpp-libressl-cmake/build.linux/_deps/oatpp-src/src -g -fPIC -m64 -march=westmere -std=gnu++17 -o exe/CMakeFiles/oatpp-libressl-exe.dir/App.cpp.o -c /mnt/d/测试/oatpp-libressl-cmake/exe/App.cpp",
+  "file": "/mnt/d/测试/oatpp-libressl-cmake/exe/App.cpp"
+}
+]

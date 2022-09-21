@@ -29,12 +29,9 @@ target_link_libraries(${OATPP_THIS_MODULE_NAME}
         PUBLIC oatpp
 )
 
-
+target_include_directories(${OATPP_THIS_MODULE_NAME} PUBLIC $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/../libressl-3.5.3/include>)
 target_link_libraries(${OATPP_THIS_MODULE_NAME}
-        PUBLIC LibreSSL::TLS
-        PUBLIC LibreSSL::SSL
-        PUBLIC LibreSSL::Crypto
-)
-target_include_directories(${OATPP_THIS_MODULE_NAME}
-        PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/../include"
+        PRIVATE crypto
+        PUBLIC tls
+        PUBLIC ssl
 )

@@ -63,6 +63,11 @@ endif()
 include(cmake/common.cmake)
 include(external/InitializeExternalComponents.cmake)
 
-add_subdirectory(lib)
+set(LIBRESSL_SKIP_INSTALL ON CACHE BOOL "Skip installation" FORCE)
+set(LIBRESSL_APPS OFF CACHE BOOL "Build apps" FORCE)
+set(LIBRESSL_TESTS OFF CACHE BOOL "Build tests" FORCE)
+set(ENABLE_ASM OFF CACHE BOOL "Enable assembly" FORCE)
+add_subdirectory(libressl-3.5.3)
+
 add_subdirectory(src)
 add_subdirectory(exe)

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/oatpp_websocket-build/src",
+		"source" : "build.linux/_deps/oatpp_websocket-src/src"
+	}
+}
