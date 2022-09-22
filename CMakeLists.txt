@@ -23,11 +23,11 @@ if(WIN32 OR WIN64)
     if(MSVC)
         add_compile_options("/source-charset:utf-8" "/EHsc" "/Zc:threadSafeInit-")
 
-        if(NOT CMAKE_BUILD_TYPE)
-            add_compile_options("/MT")
-        else()
-            add_compile_options("/MTd")
-        endif()
+        add_compile_options(
+            $<$<CONFIG:>:/MT> #---------|
+            $<$<CONFIG:Debug>:/MTd> #---|-- Statically link the runtime libraries
+            $<$<CONFIG:Release>:/MT> #--|
+        )
 
         set(CompilerFlags
             CMAKE_CXX_FLAGS
