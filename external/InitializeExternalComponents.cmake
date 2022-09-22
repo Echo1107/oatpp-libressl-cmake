@@ -12,11 +12,11 @@ set(MAP_CONCEPT_COMMON_COMPRESSION_BUILD OFF CACHE BOOL "Build Map Concept Commo
 if(DEFINED ENV{CI_REGISTRY_USER} AND DEFINED ENV{CI_REGISTRY_PASSWORD})
   FetchContent_Declare(map_concept.common
     GIT_REPOSITORY "http://$ENV{CI_REGISTRY_USER}:$ENV{CI_REGISTRY_PASSWORD}@git.sy/medical_ai/nlp/map_concept/map_concept.common.git"
-    GIT_TAG 48fb70826e960e3959ce0c215944aff9f86e200a)
+    GIT_TAG d79b410a6f0d210e652d534635711273324b5442)
 else()
   FetchContent_Declare(map_concept.common
     GIT_REPOSITORY http://git.sy/medical_ai/nlp/map_concept/map_concept.common.git
-    GIT_TAG 48fb70826e960e3959ce0c215944aff9f86e200a)
+    GIT_TAG d79b410a6f0d210e652d534635711273324b5442)
 endif()
 
 FetchContent_GetProperties(map_concept.common)

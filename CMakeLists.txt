@@ -24,9 +24,9 @@ if(WIN32 OR WIN64)
         add_compile_options("/source-charset:utf-8" "/EHsc" "/Zc:threadSafeInit-")
 
         add_compile_options(
-            $<$<CONFIG:>:/MT> #---------|
-            $<$<CONFIG:Debug>:/MTd> #---|-- Statically link the runtime libraries
-            $<$<CONFIG:Release>:/MT> #--|
+            $<$<CONFIG:>:/MT>
+            $<$<CONFIG:Debug>:/MTd>
+            $<$<CONFIG:Release>:/MT>
         )
 
         set(CompilerFlags
